@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Huracán-1-hex { color: #122A59; }
+.Huracán-2-hex { color: #324873; }
+.Huracán-3-hex { color: #7787A6; }
+.Huracán-4-hex { color: #D0D0D0; }
+.Huracán-5-hex { color: #E9EBEA; }
+
+/* Color Theme Swatches in RGBA */
+.Huracán-1-rgba { color: rgba(18, 42, 89, 1); }
+.Huracán-2-rgba { color: rgba(50, 72, 115, 1); }
+.Huracán-3-rgba { color: rgba(119, 135, 166, 1); }
+.Huracán-4-rgba { color: rgba(208, 208, 208, 1); }
+.Huracán-5-rgba { color: rgba(233, 235, 234, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Huracán-1-hsla { color: hsla(219, 66, 20, 1); }
+.Huracán-2-hsla { color: hsla(219, 39, 32, 1); }
+.Huracán-3-hsla { color: hsla(219, 20, 55, 1); }
+.Huracán-4-hsla { color: hsla(0, 0, 81, 1); }
+.Huracán-5-hsla { color: hsla(150, 4, 91, 1); }
